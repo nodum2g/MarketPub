@@ -1,0 +1,13 @@
+name: n2gActivity
+version: 0.1.0
+homepage: https://gitlab.com/nodum2g
+repository: https://gitlab.com/nodum2g/n2g-activity
+description: An ActivityPub implementation for N2G projects.
+
+authors:
+   - Az <azyklus@disroot.org>
+   - Meakoda Wilson <meakoda2@gmail.com>
+
+crystal: 1.9.2
+
+license: Apache-2.0
